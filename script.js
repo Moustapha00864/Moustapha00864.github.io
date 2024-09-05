@@ -35,14 +35,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Lead Data Scientist", "Data Analyst", "NLP Chatbot Developer", "CEO Teranga-AI"],
+        strings: ["AI Architect", "NLP-LLM-RAG Pipeline Developer", "AWS Cloud,DevOps,Full-Stack Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Lead Data Scientist", "Data Analyst", "NLP Chatbot Developer", "CEO Teranga-AI"],
+        strings: ["AI Architect", "NLP-LLM-RAG Pipeline Developer", "AWS Cloud,DevOps,Full-Stack Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
